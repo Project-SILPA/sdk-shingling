@@ -19,6 +19,7 @@ notifications:
 before_install:
   - git clone https://github.com/SujithVadakkepat/sdk-common.git
   - git clone https://github.com/SujithVadakkepat/sdk-render.git
+  - git clone https://github.com/SujithVadakkepat/sdk-syllabifier.git
   - git clone https://github.com/SujithVadakkepat/sdk-ngram.git
 
 install: gradle clean build
