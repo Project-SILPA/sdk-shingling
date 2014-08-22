@@ -24,7 +24,7 @@ The above function `shingling.wshingling` returns a list `List<String>` of shing
 ```
 
 #### To run tests
-Tests present at `/src/test/java/`
+Tests present at `/src/androidTest/java/`
 
   - Select test to run
   - Right Click -> Run Test -> Run as Android Test
