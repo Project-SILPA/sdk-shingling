@@ -1,6 +1,6 @@
-package org.silpa.shingling;
+package org.libindic.shingling;
 
-import org.silpa.ngram.Ngram;
+import org.libindic.ngram.Ngram;
 
 import java.util.ArrayList;
 import java.util.List;
